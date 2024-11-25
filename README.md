@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 📊 Project Status
 
 ![Gracia's GitHub stats](https://github-readme-stats.vercel.app/api?username=grpasfica&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grpasfica&layout=compact&theme=holi)
 
 ## 🧑‍💻 About Me
  
