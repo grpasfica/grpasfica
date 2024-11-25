@@ -12,10 +12,26 @@ Welcome to my GitHub profile!
 - 🔍 I’m always exploring new ways AI can solve real-world problems  
 - 🌱 I’m currently learning about cutting-edge AI technologies and model optimizations
 
-## 📫 How to Reach Me
+## 📫 Connect with Me
 
-- 💼 Linkedin: [Gracia Rizka Pasfica](https://www.linkedin.com/in/gracia-rizka-pasfica-a22247220/)
-- 📧 Email: igraciasriska1262@gmail.com
+<p align="center">
+ <a href="https://medium.com/@igraciasriska1262" target="blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/gracia-rizka-pasfica-a22247220" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://instagram.com/graciarp_" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://independent.academia.edu/Pasfica" target="blank">
+  <img src="https://img.shields.io/badge/Academia-FFFFFF?&style=for-the-badge&logo=academia&logoColor=black" alt="alsiam"  />
+  </a> 
+</p>
+<br />
 
 ---
 
