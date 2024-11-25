@@ -1,4 +1,4 @@
-## Hi there, I'm Gracia👋 <img src="https://komarev.com/ghpvc/?username=your-username" align="right" />
+## Hi there, I'm Gracia👋 <img src="https://komarev.com/ghpvc/?username=grpasfica" align="right" />
 
 Welcome to my GitHub profile!
 
