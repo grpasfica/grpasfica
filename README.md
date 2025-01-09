@@ -1,12 +1,15 @@
 ## Hi there, I'm Gracia👋 <img src="https://komarev.com/ghpvc/?username=grpasfica" align="right" />
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! ✨
 
-## 🧑‍💻 About Me
- 
-- 🐍 Python is my go-to language  
-- 🔍 I’m always exploring new ways AI can solve real-world problems  
-- 🌱 I’m currently learning about cutting-edge AI technologies and model optimizations
+### 🧑‍💻Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ## 🎉 My Achievements
 
@@ -39,5 +42,6 @@ Welcome to my GitHub profile!
 <br />
 
 ---
-
-Thanks for visiting! 🚀 Let's code some magic ✨
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grpasfica" />
+</a>
