@@ -11,7 +11,7 @@ Welcome to my GitHub profile! ✨
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-## 🎉 My Achievements
+### 🎉 My Achievements
 
 - 📜 **IEEE Journal Publication and Presenter**  
   Published in IEEE with the journal title:  
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! ✨
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grpasfica&show_icons=true&count_private=true&hide=prs&theme=dark)-->
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 <p align="center">
  <a href="https://medium.com/@igraciasriska1262" target="blank">
