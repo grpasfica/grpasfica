@@ -18,6 +18,8 @@ Welcome to my GitHub profile!
 - 🤖 **Development of an Intelligent AI Bot**  
   Built a Telegram-based bot capable of answering questions naturally using data stored in a database, providing efficient and user-friendly interactions.
 
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grpasfica&show_icons=true&count_private=true&hide=prs&theme=dark)-->
+
 ## 📫 Connect with Me
 
 <p align="center">
