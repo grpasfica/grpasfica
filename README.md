@@ -29,7 +29,6 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grpasfica&show_icons=true&count_private=true&hide=prs&theme=dark)-->
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
