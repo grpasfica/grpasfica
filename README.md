@@ -38,6 +38,7 @@
         </td>
         <td style="padding: 10px; text-align: center;">
           <img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white" height="23">
+          <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=PostgreSQL&logoColor=white" height="23">
           <img src="https://img.shields.io/badge/-SurrealDb-FF0040?&logo=SurrealDb&logoColor=white" height="23">
         </td>
         <td style="padding: 10px; text-align: center;">
