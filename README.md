@@ -1,13 +1,4 @@
-<p align="left"> <h1 align="center"> Gracia Rizka Pasfica </h1></p>
-<p align="center">
-  <a href="https://github.com/grpasfica" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Gracia Rizka Pasfica" height="20" width="20" /></a>
-  <a href="https://www.linkedin.com/in/gracia-rizka-pasfica-a22247220/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Gracia Rizka Pasfica" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/graciarp_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Gracia Rizka Pasfica" height="20" width="20" /></a>
-  <a href="https://independent.academia.edu/Pasfica" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg" alt="Gracia Rizka Pasfica" height="20" width="20" /></a>
-  <a href="https://medium.com/@igraciasriska1262" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Gracia Rizka Pasfica" height="20" width="20" /></a>
-</p>
-
-### 🎉 My Achievements
+### <h2>🎉 My Achievements</h2>
 
 - 📜 **IEEE Journal Publication and Presenter**  
   Published in IEEE with the journal title:  
@@ -16,11 +7,11 @@
 
 - 🤖 **Development of an Intelligent AI Bot**  
   Built a Telegram-based bot capable of answering questions naturally using data stored in a database, providing efficient and user-friendly interactions.
-
----
+  
+<br/>
 
 ### 🛠️ Tech Stack 
-<div align="center">
+<div align="left">
   <table style="border-collapse: collapse; width: 100%;">
     <thead>
       <tr style="background-color: transparent;">
@@ -52,16 +43,33 @@
   </table>
 </div>
 
----
+<br/>
+
 ### 📊 My GitHub Stats
-<div align="center">
+<div align="left">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grpasfica&theme=dark" alt="GitHub Streak" height="150em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grpasfica&theme=dark" alt="GitHub Streak" height="130em"/>
 </a>
-<img src="https://github-readme-stats-git-master-gracia-rizka-s-projects.vercel.app/api/top-langs/?username=grpasfica&layout=compact&theme=dark" height="150em"/>
+<img src="https://github-readme-stats-git-master-gracia-rizka-s-projects.vercel.app/api/top-langs/?username=grpasfica&layout=compact&theme=dark" height="130em"/>
+<img src="https://github-readme-stats-git-master-gracia-rizka-s-projects.vercel.app/api?username=grpasfica&show_icons=true&theme=dark" height="130em">
 </div>
-<div align="center">
-<img src="https://github-readme-stats-git-master-gracia-rizka-s-projects.vercel.app/api?username=grpasfica&show_icons=true&theme=dark" height="150em">
+
+<br/>
+
+#### 🌐 Connect with me
+<div align="left">
+<a href="[https://github.com/grpasfica](https://github.com/grpasfica)">
+  <img src="https://img.shields.io/badge/GitHub-2C3930.svg?&style=for-the-badge&logo=github&logoColor=white" height="25em"/>
+</a>
+<a href="[https://www.linkedin.com/in/username/](https://www.linkedin.com/in/gracia-rizka-pasfica-a22247220/)">
+  <img src="https://img.shields.io/badge/LinkedIn-3F4F44.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25em"/>
+</a>
+<a href="[https://instagram.com/username](https://www.instagram.com/graciarp_/)">
+  <img src="https://img.shields.io/badge/Instagram-A27B5C.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25em"/>
+</a>
+<a href="[https://x.com/username](https://independent.academia.edu/Pasfica)">
+  <img src="https://img.shields.io/badge/Academia-DCD7C9.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25em"/>
+</a>
 </div>
 
 
