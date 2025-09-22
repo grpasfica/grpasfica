@@ -45,6 +45,30 @@
 
 <br/>
 
+## ✨ PROFESSIONAL EXPERIENCE 
+### **AI Developer** | Smartelco Solution Technology *Dec 2024 - Present* 
+**OCR Timesheet Processing System** 
+- Developed specialized OCR system for handwritten and digital timesheet processing
+- Integrated HuggingFace open-source vision-language models
+- Built robust backend infrastructure using Rust
+- Implemented SurrealDB for efficient data storage and management
+
+**AI Customer Service Agent** - Created intelligent email classification system for customer complaints 
+- Integrated Gemini LLM for natural language understanding and contextual classification
+- Developed processing pipeline in Rust with PostgreSQL integration
+- Achieved automated categorization of customer service inquiries
+
+### **AI Research and Developer** | Braincode Tech. 
+*Dec 2024 - Present* **Computer Vision & Safety Systems** 
+- Implemented object detection system for helmet & vest compliance monitoring in factory environments
+- Designed automated quality control system for automotive door trim defect detection
+- Developed real-time monitoring solutions for industrial safety compliance **LLM & Chatbot Development**
+- Built web-based legal chatbot using NLP for automated legal inquiries
+- Created Telegram chatbot enabling natural language database queries
+- Developed conversational AI solutions for internal research and development
+
+</br>
+
 ### 📊 My GitHub Stats
 <div align="left">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
