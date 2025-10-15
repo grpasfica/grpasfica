@@ -74,7 +74,7 @@
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=grpasfica&theme=dark" alt="GitHub Streak" height="130em"/>
 </a>
-<img src="https://github-readme-stats-git-master-gracia-rizka-s-projects.vercel.app/api/top-langs/?username=grpasfica&layout=compact&theme=dark" height="130em"/>
+<img src="https://github-readme-stats-git-master-gracia-rizka-s-projects.vercel.app/api/top-langs/?username=grpasfica&layout=compact&theme=dark&cache_seconds=0" height="130em"/>
 <img src="https://github-readme-stats-git-master-gracia-rizka-s-projects.vercel.app/api?username=grpasfica&show_icons=true&theme=dark" height="130em">
 </div>
 
